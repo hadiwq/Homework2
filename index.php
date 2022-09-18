@@ -4,6 +4,9 @@
   <?php require_once("form.php"); ?>
 <?php require_once("handlepost.php"); ?>
 <?php require_once("output.php"); ?>
+<?php require_once("date.php"); ?>
+
+
 
 
 <a href="test_get.php?subject=PHP&web=W3schools.com">Test $GET</a>
