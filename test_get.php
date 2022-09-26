@@ -2,7 +2,7 @@
 <body>
 
 <?php 
-echo "Study " . $_GET['lname'] . " at " . $_GET['Lastname'];
+echo . $_GET['lname'] . $_GET['Lastname'];
 ?>
 
 </body>
