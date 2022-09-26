@@ -5,6 +5,7 @@
   Name: <input type="text" name="fname">
   <input type="submit">
 </form>
+<a href="output.php?subject=PHP&web=W3schools.com">Test $GET</a>
 
 
 
