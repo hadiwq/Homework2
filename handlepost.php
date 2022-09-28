@@ -8,7 +8,6 @@
   <html>
 <body>
 
-<a href="test_get.php?name=fname">Test $GET</a>
 
 </body>
 </html>
