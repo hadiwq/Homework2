@@ -5,7 +5,7 @@
   <?php require_once("form.php"); ?>
 <?php require_once("handlepost.php"); ?>
 <?php require_once("output.php"); ?>
-
+<?php require_once("function.php"); ?>
 
 
 
